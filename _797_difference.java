@@ -33,7 +33,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _797_difference {
 
     static int n, m, q;
     static int a[], b[];

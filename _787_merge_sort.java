@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _787_merge_sort {
 
     static int n;
     static int q[];
@@ -45,10 +45,10 @@ public class Main {
         }
     }
 
-    private static void swap(int[] q, int l, int r) {
-        int t = q[l];
-        q[l] = q[r];
-        q[r] = t;
-    }
+    // private static void swap(int[] q, int l, int r) {
+    //     int t = q[l];
+    //     q[l] = q[r];
+    //     q[r] = t;
+    // }
 
 }

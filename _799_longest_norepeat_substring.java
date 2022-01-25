@@ -20,7 +20,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _799_longest_norepeat_substring {
 
     static int N = 1010;
 

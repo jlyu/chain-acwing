@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _786_merge_sort {
 
     static int n;
     static int q[];

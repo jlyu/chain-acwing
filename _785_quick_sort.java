@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _785_quick_sort {
 
     static int n;
     static int q[];

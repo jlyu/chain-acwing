@@ -47,7 +47,7 @@ D 6
 
 import java.util.*;
 
-public class Main {
+public class _826_linked_list {
 
     static int N = 100010;
 

@@ -38,7 +38,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _798_difference_matrix {
 
     static int N = 1010;
 

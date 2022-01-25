@@ -39,7 +39,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _802_interval_sum {
 
     static int N = 300010;
 

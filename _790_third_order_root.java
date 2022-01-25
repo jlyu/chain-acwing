@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _790_third_order_root {
 
     static int n, m, x;
     static int q[];

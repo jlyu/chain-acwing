@@ -24,7 +24,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _795_prefix_sum {
 
     static int n, m, x;
     static int a[], s[];
@@ -48,7 +48,7 @@ public class Main {
             s[i] = s[i - 1] + a[i];
         }
 
-        while (m--) {
+        while (m-- != 0) {
             int l = scanner.nextInt();
             int r = scanner.nextInt();
 

@@ -78,19 +78,19 @@ public class _0105 {
         int i = 10;
         s[i] = s[i - 1] + a[i];
     }
-    static void prefixSum_2d(int[][] a, int[][] s) {
-        int res = s[x2][y2] - s[x2-1][y2] - s[x2][y2-1] + s[x1-1][y1-1];
-    }
+    // static void prefixSum_2d(int[][] a, int[][] s) {
+    //     int res = s[x2][y2] - s[x2-1][y2] - s[x2][y2-1] + s[x1-1][y1-1];
+    // }
 
-    static void difference_1d(int[] b, int c) {
-        b[l] += c;
-        b[r + 1] -= c;
-    }
+    // static void difference_1d(int[] b, int c) {
+    //     b[l] += c;
+    //     b[r + 1] -= c;
+    // }
 
-    static void difference_2d(int[][]s, int c) {
-        s[x1][y1] += c;
-        s[x2+1][y1] -= c;
-        s[x1][y2+1] -= c;
-        s[x2+1][y2+1] += c;
-    }
+    // static void difference_2d(int[][]s, int c) {
+    //     s[x1][y1] += c;
+    //     s[x2+1][y1] -= c;
+    //     s[x1][y2+1] -= c;
+    //     s[x2+1][y2+1] += c;
+    // }
 }

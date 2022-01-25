@@ -1,4 +1,6 @@
-public class Main {
+package review;
+
+public class _0104 {
 
 // quick sort
 static void quickSort(int[] q, int l, int r) {
@@ -68,9 +70,9 @@ static int bSearch_2(int[] q, int l, int r) {
 static double bSearch_f(double[] q, double l, double r) {
     double eps = 1e-8;
     while (r - l < eps) {
-        double mid = (l - r) / 2 + r;
-        if (check(mid)) { r = mid; }
-        else { l = mid; }
+        // double mid = (l - r) / 2 + r;
+        // if (check(mid)) { r = mid; }
+        // else { l = mid; }
 
     }
     return l;

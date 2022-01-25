@@ -22,7 +22,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _801_amount_of_1 {
 
     static int N = 1010;
 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _850_topological_sequences_of_directed_graphs {
     static int N = 100010;
 
     static int n;

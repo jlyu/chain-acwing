@@ -49,7 +49,7 @@ IR 2 2
 
 import java.util.*;
 
-public class Main {
+public class _827_double_linked_list {
 
     static int N = 100010;
 

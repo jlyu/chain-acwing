@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class _847_ {
+public class _847_bfs_gh_short_path {
     static int N = 100010, M = 2 * N;
 
     static int h[] = new int[N];

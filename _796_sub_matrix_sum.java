@@ -36,7 +36,7 @@
 
 import java.util.*;
 
-public class Main {
+public class _796_sub_matrix_sum {
 
     static int n, m, q;
     static int a[][], s[][];
